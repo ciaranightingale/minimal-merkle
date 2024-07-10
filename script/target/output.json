@@ -1,0 +1,46 @@
+[
+    {
+        "inputs": [
+            "Ciara"
+        ],
+        "proof": [
+            "0xfcedff7fd13c323a60b257d4553f350831c1694fd3a953ed9bb5af1abd127fb8",
+            "0x7c1a4a44f893dd1de1745304d1b2a6413f937d10c458bdd45ede7c53b87e3a0e"
+        ],
+        "root": "0x6e10420ea854c1d5c4c2e7ecf3e1f79e6963f43f924a009f5bf6d45da592d1cf",
+        "leaf": "0x7c03745f570a678cbf8956b39d092a3653cd96d15b52ee66f408571923aa69b8"
+    },
+    {
+        "inputs": [
+            "Sarah"
+        ],
+        "proof": [
+            "0x7c03745f570a678cbf8956b39d092a3653cd96d15b52ee66f408571923aa69b8",
+            "0x7c1a4a44f893dd1de1745304d1b2a6413f937d10c458bdd45ede7c53b87e3a0e"
+        ],
+        "root": "0x6e10420ea854c1d5c4c2e7ecf3e1f79e6963f43f924a009f5bf6d45da592d1cf",
+        "leaf": "0xfcedff7fd13c323a60b257d4553f350831c1694fd3a953ed9bb5af1abd127fb8"
+    },
+    {
+        "inputs": [
+            "Bob"
+        ],
+        "proof": [
+            "0xe060618ff524040946d843f7db0f20bc36d6823d1dd1adf0cefbbd8c4283eda1",
+            "0x68247294d6ac7c96da06755b7e71415e1b46163839ab6a67b9f7cc896369f8f7"
+        ],
+        "root": "0x6e10420ea854c1d5c4c2e7ecf3e1f79e6963f43f924a009f5bf6d45da592d1cf",
+        "leaf": "0xfa584e70da2cdafeba16aae05f550a31fac5d37ea2de2232d2fb02401b0527da"
+    },
+    {
+        "inputs": [
+            "Dylan"
+        ],
+        "proof": [
+            "0xfa584e70da2cdafeba16aae05f550a31fac5d37ea2de2232d2fb02401b0527da",
+            "0x68247294d6ac7c96da06755b7e71415e1b46163839ab6a67b9f7cc896369f8f7"
+        ],
+        "root": "0x6e10420ea854c1d5c4c2e7ecf3e1f79e6963f43f924a009f5bf6d45da592d1cf",
+        "leaf": "0xe060618ff524040946d843f7db0f20bc36d6823d1dd1adf0cefbbd8c4283eda1"
+    }
+]
